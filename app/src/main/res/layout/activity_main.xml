@@ -19,6 +19,7 @@
 
                 <!-- TODO (03) Add a tint color to the ImageView -->
                 <ImageView
+                        android:tint="?colorOnSecondary"
                         android:id="@+id/hero_image"
                         android:layout_width="150dp"
                         android:layout_height="match_parent"
